@@ -6,6 +6,9 @@ MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CommonTasksDLL", "CommonTasksDLL\CommonTasksDLL.csproj", "{3E4C29A8-4083-4706-849E-E9845F8FDA79}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestingDLL", "TestingDLL\TestingDLL.csproj", "{89C4C6CC-04BE-45FE-A349-1B88EBD07730}"
+	ProjectSection(ProjectDependencies) = postProject
+		{3E4C29A8-4083-4706-849E-E9845F8FDA79} = {3E4C29A8-4083-4706-849E-E9845F8FDA79}
+	EndProjectSection
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
