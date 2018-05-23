@@ -2,7 +2,7 @@
 <package >
   <metadata>
     <id>CommonTasksDLL</id>
-    <version>1.4.0</version>
+    <version>1.5.0</version>
     <title>CommonTasksDLL</title>
     <authors>Andrew Belder</authors>
     <owners>Andrew Belder</owners>
@@ -10,7 +10,7 @@
     <projectUrl>https://www.nuget.org/packages/CommonTasksDLL/</projectUrl>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
     <description>Numerous useful methods that are frequently used.</description>
-    <releaseNotes>New Colors and Header2 methods.</releaseNotes>
+    <releaseNotes>Updated Framework to v4.6.1</releaseNotes>
     <copyright>Copyright 2018</copyright>
     <tags>CommonTasks CommonTasksDLL Belder</tags>
   </metadata>
